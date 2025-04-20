@@ -1,12 +1,6 @@
-Claro! Aqui está a **versão final e bem apresentada do seu resumo**, escrita em primeira pessoa, com uma linguagem clara, profissional e detalhada, ideal para entregar junto ao projeto:
-
----
-
 ## 📊 Análise de Dados das Lojas AluraStore
 
 Este projeto teve como objetivo realizar uma análise exploratória e comparativa dos dados de vendas de quatro lojas da AluraStore. A seguir, descrevo cada etapa realizada e as conclusões que obtive ao longo da análise.
-
----
 
 ### 📥 1. Importação e Preparação dos Dados
 
@@ -89,6 +83,3 @@ Além disso, utilizei visualizações claras e organizadas com a biblioteca `mat
 
 Essa abordagem modular e comparativa entre lojas também permite escalabilidade do projeto para um número maior de lojas no futuro.
 
----
-
-Se quiser, posso também gerar esse texto como um PDF para você anexar ao projeto. Deseja isso?
